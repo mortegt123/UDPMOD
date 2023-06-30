@@ -2,7 +2,7 @@
 #
 # Try `install_agnudp.sh --help` for usage.
 #
-# (c) 2023 Khaled AGN
+# (c) 2023 Khaled AGN Editado por Morte Chapin
 #
 
 clear
